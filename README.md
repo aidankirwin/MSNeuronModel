@@ -8,7 +8,9 @@ The primary effect of the inflammatory response associated with Multiple Scleros
 
 ## Code Build Instructions
 
-Run in MATLAB
+1. Open with MATLAB
+2. Add all subfolders to Path
+3. Run MainFile.m
 
 ## Credits
 
